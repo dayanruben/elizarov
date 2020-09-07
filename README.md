@@ -1,4 +1,4 @@
-![Roman Elizarov Banner](https://raw.github.com/elizarov/elizarov/master/github.png)
+![Roman Elizarov Banner](https://github.com/elizarov/elizarov/raw/master/github.png)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
