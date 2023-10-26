@@ -6,7 +6,6 @@
 val elizarov = developer {
     about {
         name = "Roman Elizarov"
-        company = JetBrains
     }
     links {
         twitter = "@relizarov"
