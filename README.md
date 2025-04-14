@@ -5,6 +5,7 @@ val elizarov = developer {
     }
     links {
         twitter = "@relizarov"
+        telegram = "@relizarov"
     }
 }
 ```
